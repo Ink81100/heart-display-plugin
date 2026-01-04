@@ -3,8 +3,11 @@
 
 ![Alt text](capture.png "Image showing a player health")
 
-## How it works ?
+# How it works ?
 It uses the minecraft scoreboard system
 
-## How to use it ?
+# How to use it ?
 Simply, fetch the latest release and put the jar in the plugins folders
+
+# License
+Heart display plugin is licensed under the GNU General Public License, version 3
