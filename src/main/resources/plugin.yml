@@ -1,7 +1,7 @@
 name: HeartDisplay
 version: 1.0.0
-main: io.papermc.testplugin.ExamplePlugin
-description: PLugin pour afficher les coeurs des joueurs sur leur tête
+main: heartdisplay.HeartPlugin
+description: PLugin pour afficher les PV des joueurs sous leur tête
 author: Ink81100
 website: https://github.com/Ink81100
 api-version: '1.21.11'
